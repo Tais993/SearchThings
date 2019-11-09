@@ -21,7 +21,6 @@ public class Main {
                 break;
             }
 
-            System.out.println("You can choose between a lot of search engines.");
             System.out.println("Google, Bing, DuckDuckGo, Gibiru, Search Encrypt, Swisscows");
             System.out.print("Which search engine do you want to use? ");
             String engine = reader.nextLine();
@@ -100,5 +99,3 @@ public class Main {
         }
     }
 }
-
-
